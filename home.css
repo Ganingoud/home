@@ -1,0 +1,42 @@
+body{
+     margin:auto
+}
+/*footer CSS*/
+#header{
+     height:60px;
+     background-color: rgb(241,180,65)
+}
+
+#icon{
+     float: left;
+     margin-left: 1%;
+     margin-top: -1%;
+}
+
+#social{
+     float: right;
+}
+
+.slogo{
+     height: 50px;
+     width: 50px;
+}
+
+/*search CSS*/
+#search{
+     height: 400px;
+     width:100%;
+     background-image: url("image/");
+}
+/*quicksearch CSS*/
+#quicksearch{
+     height: 600px;
+     width: 100%;
+     border: 6px double rgb(204, 84, 36);
+}
+/*footer CSS*/
+#footer{
+     height: 60px;
+     width: 100%;
+     border: 4px dashed rgb(74, 16, 27);
+}
